@@ -42,3 +42,6 @@ c = tan(2fcfs)-1tan(2fcfs)+1 .,  d = -cos(2fcfs)  By those two equations, we can
 Conclusion : 
 For this project, I showed 3 examples of guitar sound effects by using different equations. There are Both tremolo and Phaser effects. I think the most difficult part for me during this project is understanding the equations and converting them into python code . In addition, even if I put the equations down properly I also need to be really careful about the range.If I exceed the range the guitar music would not be shown. Overall, i think this project is quite interesting and I am really enjoy it while i was working on it.
 
+
+When downloading the source code, remember install pyaudio to python so that the code can run correctly. 
+Thanks for watching.
